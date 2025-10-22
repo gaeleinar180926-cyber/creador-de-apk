@@ -21,7 +21,11 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "android.permission.CAMERA"
+      ],
+      "package": "com.jonathan1809.SistemaRestaurante"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -29,6 +33,12 @@
     "plugins": [
       "expo-barcode-scanner",
       "expo-sqlite"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "37d18895-f96e-45ad-a522-5e83d9d927ea"
+      }
+    },
+    "owner": "jonathan1809"
   }
 }

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Taquería El Buen Taco",
+    "slug": "taqueria-el-buen-taco",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  {
+    "name": "Gorditas y Quesadillas La Sabrosa",
+    "slug": "gorditas-quesadillas-la-sabrosa",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  {
+    "name": "Pollería El Pollo Feliz",
+    "slug": "polleria-el-pollo-feliz",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  {
+    "name": "Botanero La Botana",
+    "slug": "botanero-la-botana",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  {
+    "name": "Cemiteras (Servicios)",
+    "slug": "cemiteras-servicios",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  {
+    "name": "Carnicería La Carne",
+    "slug": "carniceria-la-carne",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  {
+    "name": "Verdulería El Huerto",
+    "slug": "verduleria-el-huerto",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  {
+    "name": "Heladería Delicias",
+    "slug": "heladeria-delicias",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+]
